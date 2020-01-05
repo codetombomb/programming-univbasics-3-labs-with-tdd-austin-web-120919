@@ -6,7 +6,7 @@ second_number = 1
 
 # test one - adding first_number and second_number.
 # second_number cannot be zero.
-sum = first_number + second_number
+
 
 # test two - subtracting first_number and second_number
 difference = first_number - second_number
